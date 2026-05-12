@@ -8,7 +8,7 @@
   "enviar_enquete": ["xpath", "/html/body/div[1]/div/div/div[1]/div/span[2]/div/div/div/div/div/div/div/div/div[2]/div/span"],                  
   "toggle_resposta_unica": ["xpath", "/html/body/div[1]/div/div/div[1]/div/span[2]/div/div/div/div/div/div/div/div/div[1]/div/div[3]/div"],       
   "nova_conversa": ["css_selector", "[aria-label='Nova conversa']"],      
-  "pesquisa_contato": ["xpath", "/html/body/div[1]/div/div/div/div/div[3]/div/div[3]/div[1]/div/span/div/span/div/div[1]/div/div/div/div/div/div[2]/input"],      
+  "pesquisa_contato": ["xpath","/html/body/div[1]/div/div/div/div/div[3]/div/div[2]/div[1]/div/span/div/span/div/div[1]/div/div/div/div/div/div[2]/input"],      
   "enquete_campo1": ["xpath", "//*[@id='app']/div[1]/div/span[2]/div/div/div/div/div/div/div/div/div[1]/div/div[2]/div/div[1]/div/div/div/div/div[2]/div[1]/div/div/p"],
   "enquete_campo2": ["xpath", "//*[@id='app']/div[1]/div/span[2]/div/div/div/div/div/div/div/div/div[1]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/p"],
   "x_busca": ["xpath", "//*[@id='side']/div[1]/div/div[2]/span/button/span"],
